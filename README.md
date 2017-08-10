@@ -12,13 +12,14 @@ In command window:
 
     exec():
 
-        The main interface to execute the programme.
+        % The main interface to execute the programme.
   
-toDestroySerial(filename):
+    toDestroySerial(filename):
 
-  Generate the destroy serial, sort by the k of node.
-  filename is the STRING of data filename.
+         % Generate the destroy serial, sort by the k of node.
+         % filename is the STRING of data filename.
   
-toCsvMat(serial):
+    toCsvMat(serial):
 
-  Arrange the destroy serial to a CSV-Compatible mat.
+      % Arrange the destroy serial to a CSV-Compatible mat.
+     % serial is given by toDestroySerial(filename).
