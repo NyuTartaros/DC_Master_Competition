@@ -3,7 +3,7 @@ Data Castle Master Competition, Complex Network
 
 # Launch
 In command window:
-  exec();
+    exec();
     
 # Structure
 exec():
@@ -15,6 +15,6 @@ toDestroySerial(filename):
   Generate the destroy serial, sort by the k of node.
   filename is the STRING of data filename.
   
-toCsvMat(serial)
+toCsvMat(serial):
 
   Arrange the destroy serial to a CSV-Compatible mat.
