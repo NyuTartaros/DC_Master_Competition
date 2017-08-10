@@ -1,15 +1,18 @@
 # DC_Master_Competition
+
 Data Castle Master Competition, Complex Network
 
 # Launch
+
 In command window:
 
     exec();
     
 # Structure
-exec():
 
-  The main interface to execute the programme.
+    exec():
+
+        The main interface to execute the programme.
   
 toDestroySerial(filename):
 
