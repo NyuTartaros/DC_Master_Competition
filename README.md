@@ -3,6 +3,7 @@ Data Castle Master Competition, Complex Network
 
 # Launch
 In command window:
+
     exec();
     
 # Structure
